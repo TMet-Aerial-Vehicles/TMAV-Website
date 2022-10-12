@@ -37,26 +37,34 @@
                 <div class="col-12 col-md-2"></div>
             </section>
             
-            <section class="row section-content pb-3">
+            <section class="row section-content pb-2">
                 <div class="col-md-2"></div>
                 <div class="col-md-8 text-center">
                     <h1>Our Sponsors</h1>
                     <div class="row align-items-center pt-3">
-                        <div class="col-md-3 text-center px-4">
+                        <div class="col-md-3 text-center px-4 pb-4">
                             <img src="/images/sponsors/TMU.png" alt="TMU">
                         </div>
-                        <div class="col-md-3 text-center px-4">
+                        <div class="col-md-3 text-center px-4 pb-4">
                             <img src="/images/sponsors/mues.png" alt="MUES">
                         </div>
-                        <div class="col-md-3 text-center px-4">
+                        <div class="col-md-3 text-center px-4 pb-4">
                             <img src="/images/sponsors/solidworks.png" alt="Solidworks">
                         </div>
-                        <div class="col-md-3 text-center px-4">
+                        <div class="col-md-3 text-center px-4 pb-md-4 pb-2">
                             <img src="/images/sponsors/rotorgeeks.png" alt="Rotorgeeks">
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2"></div>
+            </section>
+
+            <section class="row">
+                <div class="col-md-3 col-1"></div>
+                <div class="col-md-6 col-10">
+                    <hr class="sponsor-hr">
+                </div>
+                <div class="col-md-3 col-1"></div>
             </section>
             
             <section class="row p-4 section-content">
