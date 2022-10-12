@@ -43,16 +43,16 @@
                     <h1>Our Sponsors</h1>
                     <div class="row align-items-center pt-3">
                         <div class="col-md-3 text-center px-4">
-                            <img src="/images/sponsors/TMU.png" alt="">
+                            <img src="/images/sponsors/TMU.png" alt="TMU">
                         </div>
                         <div class="col-md-3 text-center px-4">
-                            <img src="/images/sponsors/ress.png" alt="">
+                            <img src="/images/sponsors/mues.png" alt="MUES">
                         </div>
                         <div class="col-md-3 text-center px-4">
-                            <img src="/images/sponsors/solidworks.png" alt="">
+                            <img src="/images/sponsors/solidworks.png" alt="Solidworks">
                         </div>
                         <div class="col-md-3 text-center px-4">
-                            <img src="/images/sponsors/rotorgeeks.png" alt="">
+                            <img src="/images/sponsors/rotorgeeks.png" alt="Rotorgeeks">
                         </div>
                     </div>
                 </div>
