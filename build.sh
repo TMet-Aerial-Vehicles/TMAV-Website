@@ -17,7 +17,7 @@ do
 done
 
 
-#Copy all CSS files
+# Copy all CSS files
 for f in *.css; 
 do
     cat $f > "$DEST/$f";
@@ -25,11 +25,19 @@ do
 done
 
 
-#Copy all JS files
+# Copy all JS files
 for f in *.js; 
 do
     cat $f > "$DEST/$f";
     echo "Processing $f file..";
 done
 
-echo "Process complete." ;
+
+# Copy all Images
+echo "Moving images";
+image_folder="$DEST/images/";
+mkdir -p $image_folder;
+cp -r ./images/. $image_folder;
+    
+
+echo "Process complete.";
