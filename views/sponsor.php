@@ -18,8 +18,8 @@
                     <picture>
                         <source 
                             media="(min-width: 450px)"
-                            srcset="/images/sponsors/sponsor-main.jpg" class="spon-main-img px-0">
-                        <img src="/images/sponsors/sponsor-main-mobile.jpg" class="spon-main-img px-0" alt="Close up image of drone for sponsors">
+                            srcset="../images/sponsors/sponsor-main.jpg" class="spon-main-img px-0">
+                        <img src="../images/sponsors/sponsor-main-mobile.jpg" class="spon-main-img px-0" alt="Close up image of drone for sponsors">
                     </picture>
                     <div class="spon-main-text p-0">
                         <h1 class="home-main-font pt-2 mb-0">Sponsorship</h1>
@@ -43,16 +43,16 @@
                     <h1>Our Sponsors</h1>
                     <div class="row align-items-center pt-3">
                         <div class="col-md-3 text-center px-4 pb-4">
-                            <img src="/images/sponsors/TMU.png" alt="TMU">
+                            <img src="../images/sponsors/TMU.png" alt="TMU">
                         </div>
                         <div class="col-md-3 text-center px-4 pb-4">
-                            <img src="/images/sponsors/mues.png" alt="MUES">
+                            <img src="../images/sponsors/mues.png" alt="MUES">
                         </div>
                         <div class="col-md-3 text-center px-4 pb-4">
-                            <img src="/images/sponsors/solidworks.png" alt="Solidworks">
+                            <img src="../images/sponsors/solidworks.png" alt="Solidworks">
                         </div>
                         <div class="col-md-3 text-center px-4 pb-md-4 pb-2">
-                            <img src="/images/sponsors/rotorgeeks.png" alt="Rotorgeeks">
+                            <img src="../images/sponsors/rotorgeeks.png" alt="Rotorgeeks">
                         </div>
                     </div>
                 </div>

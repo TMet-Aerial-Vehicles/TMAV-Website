@@ -57,23 +57,28 @@
                                             <div class="acco-year">2022</div>
                                         </div>
                                         <div class="acco-title-box">
-                                            <div class="acco-title tmu-blue">AEAC Student Competition</div>
+                                            <div class="acco-title tmu-blue ps-2">AEAC Student RPAS Competition</div>
                                         </div>
                                     </div>
                                     <div class="acco-card">
                                         <div class="acco-img-box">
-                                            <img src="/images/accolades/acco-2022.jpg"
+                                            <img src="../images/accolades/acco-2022.jpg"
                                                  class="acco-event-img"
-                                                 alt="" />
+                                                 alt="2022 Team Photo" />
                                         </div>
                                         <div class="acco-text">
-                                            <div class="acco-title tmu-yellow mt-0 mb-1">AEAC Student Competition</div>
+                                            <div class="acco-title mt-0 mb-2 text-center text-md-start">
+                                                <a href="https://www.aerialevolution.ca/canadas-national-student-rpas-competition-2022-results/" 
+                                                   target="_blank" class="tmu-yellow text-center text-md-start">AEAC Student Competition</a>
+                                            </div>
                                             <div class="acco-desc">
                                                 <h5 class="tmu-i-font">Phase II Winners</h5>
-                                                Some blurb about what we competed in, and summary of phases.
-                                                Some blurb about what we competed in, and summary of phases.
-                                                Some blurb about what we competed in, and summary of phases.
-                                                Some blurb about what we competed in, and summary of phases.
+                                                Phase II was focused around securing critical infrastructure and 
+                                                threat response. 
+                                                Task 1 involved locating an intruder within an embassy boundary, 
+                                                and Task 2 involved locating and delivering a suspicious package into 
+                                                a secure location. RUAV created Hermes to complete this objective, winning
+                                                the flight competition for a second year in a row.
                                             </div>
                                         </div>
 
@@ -84,7 +89,7 @@
                                 <div class="acco-event">
                                     <div class="acco-title-year">
                                         <div class="acco-title-box">
-                                            <div class="acco-title tmu-blue">USC-STC Student Competition</div>
+                                            <div class="acco-title tmu-blue pe-2">USC-STC Student UAS Competition</div>
                                         </div>
                                         <div class="acco-year-box">
                                             <div class="acco-year">2021</div>
@@ -92,19 +97,22 @@
                                     </div>
                                     <div class="acco-card">
                                         <div class="acco-img-box">
-                                            <img src="/images/accolades/acco-2021.jpg"
+                                            <img src="../images/accolades/acco-2021.jpg"
                                                  class="acco-event-img"
-                                                 alt="" />
+                                                 alt="2021 Team Photo" />
                                         </div>
-                                        <div class="acco-text">
-                                            <div class="acco-title tmu-yellow mt-0 mb-1">USC-STC Student Competition</div>
+                                        <div class="acco-text text-start">
+                                            <div class="acco-title mt-0 mb-2">
+                                                <a href="https://www.aerialevolution.ca/canadas-national-student-uas-competition-2021-results/" 
+                                                   target="_blank" class="tmu-yellow">USC-STC Student Competition</a>
+                                            </div>
                                             <div class="acco-desc">
-                                                <h5 class="tmu-i-font">Phase II Winners</h5>
-                                                <h5 class="tmu-i-font">Innovation Award</h5>
-                                                Some blurb about what we competed in, and summary of phases.
-                                                Some blurb about what we competed in, and summary of phases.
-                                                Some blurb about what we competed in, and summary of phases.
-                                                Some blurb about what we competed in, and summary of phases.
+                                                <h5 class="tmu-i-font">Phase II Winners, Innovation Award</h5>
+                                                The goal of the competition was to deliver medications to remote communities.
+                                                This involved picking up medical supplies and delivering them kilometres away, 
+                                                as well as being able to carry multiple boxes of supplies for delivery.
+                                                RUAV won the flight competition as well as the innovation award for building a single UAV that can 
+                                                drive on ground, take off like a helicopter, and fly long distance like an airplane.
                                             </div>
                                         </div>
 
@@ -118,23 +126,27 @@
                                             <div class="acco-year">2018</div>
                                         </div>
                                         <div class="acco-title-box">
-                                            <div class="acco-title tmu-blue">USC-STC Student Competition</div>
+                                            <div class="acco-title tmu-blue">USC-STC Student UAS Competition</div>
                                         </div>
                                     </div>
                                     <div class="acco-card">
                                         <div class="acco-img-box">
-                                            <img src="/images/accolades/acco-2018.jpg"
+                                            <img src="../images/accolades/acco-2018.jpg"
                                                  class="acco-event-img"
-                                                 alt="" />
+                                                 alt="2018 Team Photo" />
                                         </div>
                                         <div class="acco-text">
-                                            <div class="acco-title tmu-yellow mt-0 mb-1">USC-STC Student Competition</div>
+                                            <div class="acco-title mt-0 mb-2">
+                                                <a href="https://www.aerialevolution.ca/uas-competition-students-and-police/" 
+                                                   target="_blank" class="tmu-yellow">USC-STC Student Competition</a>
+                                            </div>
                                             <div class="acco-desc">
                                                 <h5 class="tmu-i-font">Spirit Award</h5>
-                                                Some blurb about what we competed in, and summary of phases.
-                                                Some blurb about what we competed in, and summary of phases.
-                                                Some blurb about what we competed in, and summary of phases.
-                                                Some blurb about what we competed in, and summary of phases.
+                                                This competition focused on helping RCMP with drone support 
+                                                to crack the location of an armed biker gang and have active surveillance. 
+                                                It required the drone to fly beyond visual line of sight (BVLOS).
+                                                RUAV won the Spirit Award for their outstanding sportsmanship 
+                                                and video presentation created.
                                             </div>
                                         </div>
 
@@ -145,7 +157,7 @@
                                 <div class="acco-event">
                                     <div class="acco-title-year">
                                         <div class="acco-title-box">
-                                            <div class="acco-title tmu-blue">USC-STC Student Competition</div>
+                                            <div class="acco-title tmu-blue">USC-STC Student UAS Competition</div>
                                         </div>
                                         <div class="acco-year-box">
                                             <div class="acco-year">2017</div>
@@ -153,18 +165,21 @@
                                     </div>
                                     <div class="acco-card">
                                         <div class="acco-img-box">
-                                            <img src="/images/accolades/acco-2017.jpg"
+                                            <img src="../images/accolades/acco-2017.jpg"
                                                  class="acco-event-img"
-                                                 alt="" />
+                                                 alt="2017 Team Photo" />
                                         </div>
-                                        <div class="acco-text">
-                                            <div class="acco-title tmu-yellow mt-0 mb-1">USC-STC Student Competition</div>
+                                        <div class="acco-text text-start">
+                                            <div class="acco-title mt-0 mb-2">
+                                                <a href="https://www.aerialevolution.ca/2017-student-uas-competition-sponsorship-call/" 
+                                                   target="_blank" class="tmu-yellow">USC-STC Student Competition</a>
+                                            </div>
                                             <div class="acco-desc">
                                                 <h5 class="tmu-i-font">Phase II Runners Up</h5>
-                                                Some blurb about what we competed in, and summary of phases.
-                                                Some blurb about what we competed in, and summary of phases.
-                                                Some blurb about what we competed in, and summary of phases.
-                                                Some blurb about what we competed in, and summary of phases.
+                                                This competition featured a wildlife monitoring scenario 
+                                                where teams must locate three different types of geese nests 
+                                                and acquire nesting samples for pesticide testing. 
+                                                RUAV were Phase II Runners Up of this competition.
                                             </div>
                                         </div>
 

@@ -13,7 +13,7 @@
         <div class="container-fluid bg-light px-0">
             <div class="row">
                 <div class="col-md-12 d-block d-md-none">
-                    <img src="/images/about/drone_over_ry_mobile.jpg" class="about-us-main-img px-0"
+                    <img src="../images/about/drone_over_ry_mobile.jpg" class="about-us-main-img px-0"
                          alt="Drone flying over Ryerson building">
                 </div>
                 <div class="col-lg-1"></div>
@@ -21,7 +21,7 @@
                     <div class="p-md-2 mb-md-2 pt-4 pb-0 p-3 about-text">
                         <h2 class="text-center tmu-i-font pt-md-4">
                             About
-                            <img src="/images/TMAV_Logo.png" alt="TMAV Logo">
+                            <img src="../images/TMAV_Logo.png" alt="TMAV Logo">
                         </h2>
                         <hr class="half-hr">
                         <p class="pt-3">
@@ -47,7 +47,7 @@
                         </p>
                         <p>
                             For that, we compete at the national
-                            <a href="https://www.unmannedsystems.ca/" class="uasc-link" target="_blank">
+                            <a href="https://www.aerialevolution.ca" class="uasc-link" target="_blank">
                                 Unmanned Systems Canada UAS Student Competition</a>.
                             The competition provides students the opportunity to explore how drones can be applied
                             in real-life scenarios (wildlife census data collection, field analytics, law enforcement,
@@ -59,8 +59,8 @@
                     <picture>
                         <source
                                 media="(min-width: 450px)"
-                                srcset="/images/about/tmav/drone_over_ry.jpg" class="about-us-main-img px-0">
-                        <img src="/images/about/tmav/drone_over_ry_mobile.jpg" class="about-us-main-img px-0" alt="Drone flying over Ryerson building">
+                                srcset="../images/about/tmav/drone_over_ry.jpg" class="about-us-main-img px-0">
+                        <img src="../images/about/tmav/drone_over_ry_mobile.jpg" class="about-us-main-img px-0" alt="Drone flying over Ryerson building">
                     </picture>
                 </div>
             </div>

@@ -22,7 +22,7 @@ if ($request_type == 'POST') {
         case '':
         case '/':
         case '/home' :
-            require __DIR__ . '/views/home.php';
+            require __DIR__ . '/views/index.php';
             break;
         case '/accolades' :
             require __DIR__ . '/views/accolades.php';

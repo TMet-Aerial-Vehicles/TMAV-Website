@@ -18,8 +18,8 @@
                     <picture>
                        <source 
                           media="(min-width: 450px)"
-                          srcset="/images/contact/contact-main.jpg" class="acco-main-img px-0">
-                       <img src="/images/contact/contact-main-mobile.jpg" class="acco-main-img px-0" alt="TMAV Contact Us Header Image">
+                          srcset="../images/contact/contact-main.jpg" class="acco-main-img px-0">
+                       <img src="../images/contact/contact-main-mobile.jpg" class="acco-main-img px-0" alt="TMAV Contact Us Header Image">
                     </picture>
                     <div class="acco-main-text p-0">
                         <h1 class="home-main-font pt-2 mb-0">Contact Us</h1>
@@ -89,7 +89,7 @@
                                         <h2><i class="fas fa-envelope"></i></h2>
                                     </div>
                                     <div class="col-lg-11 col-md-10 col-11 text-start">
-                                        <h4> &nbsp; <a href="mailto:ruav@ryerson.ca?subject=contact" id="email-text-black">ruav@ryerson.ca</a></h4>
+                                        <h4> &nbsp; <a href="mailto:ruav@torontomu.ca?subject=contact" id="email-text-black">ruav@torontomu.ca</a></h4>
                                     </div>
                                 </div>
                                 
