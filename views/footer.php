@@ -5,7 +5,7 @@
                 <div class="row">
                     <!-- Logo -->
                     <div class="col-lg-6 text-center mb-4">
-                        <img src="../images/TMAV_Logo_White_Full.png" alt="TMAV Logo">
+                        <img src="/images/TMAV_Logo_White_Full.png" alt="TMAV Logo">
                     </div>
                     <!-- Social Media Links -->
                     <div class="col-lg-6 text-center mb-3">
