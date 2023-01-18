@@ -26,8 +26,8 @@
             <section class="row py-4 px-2 ">
                 <div class="col-12 col-md-2"></div>
                 <div class="col-12 col-md-8">
-                    <div class="text-center p-md-4 p-3 location-large tmu-font">
-                        <h2>Follow us throughout the school year as we design, build and compete with our Unmanned Aerial Vehicles.</h2>
+                    <div class="text-center p-md-4 p-3 location-large tmu-i-font">
+                        <h2>Follow us throughout the school year as we design, build, and compete with our Unmanned Aerial Vehicles</h2>
                     </div>
                 </div>
                 <div class="col-12 col-md-2"></div>
@@ -96,7 +96,7 @@
             <section class="row mb-4">
                 <div class="col-md-2"></div>
                 <div class="col-md-8">
-                    <h1 class="text-center p-4">Gallery</h1>
+                    <h1 class="text-center px-4 pt-4 pb-2">Gallery</h1>
                     <!-- Carousel -->
                     <div id="home-carousel" class="carousel slide" data-bs-ride="carousel">
 
