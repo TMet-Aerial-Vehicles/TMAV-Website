@@ -38,6 +38,10 @@ echo "Moving images";
 image_folder="$DEST/images/";
 mkdir -p $image_folder;
 cp -r ./images/. $image_folder;
+
+
+# Copy redirect file 
+cp ./_redirects $DEST;
     
 
 echo "Process complete.";
