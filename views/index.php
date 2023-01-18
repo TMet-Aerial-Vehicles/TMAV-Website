@@ -12,8 +12,8 @@
             <section class="row">
                 <div class="home-main-container px-0">
                     <picture>
-                       <source media="(min-width: 450px)" srcset="../images/drone_home.jpg" class="home-main-img px-0">
-                       <img src="../images/drone_home_mobile.jpg" class="home-main-img px-0" alt="Cover image of a drone with Toronto Metropolitan Aerial Vehicles text">
+                       <source media="(min-width: 450px)" srcset="/images/drone_home.jpg" class="home-main-img px-0">
+                       <img src="/images/drone_home_mobile.jpg" class="home-main-img px-0" alt="Cover image of a drone with Toronto Metropolitan Aerial Vehicles text">
                     </picture>
                     <div class="home-main-text p-0">
                         <h1 class="home-main-font pt-2 mb-0">Toronto</h1>
