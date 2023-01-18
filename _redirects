@@ -1,0 +1,8 @@
+/             /index.html        200
+/home         /index.html        200
+/accolades    /accolades.html    200 
+/contact      /contact.html      200
+/about/drones /about-drones.html 200
+/about/tmav   /about-tmav.html   200
+/sponsor      /sponsor.html      200
+/*            /404.html          200!
