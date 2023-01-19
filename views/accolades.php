@@ -57,7 +57,7 @@
                                             <div class="acco-year">2022</div>
                                         </div>
                                         <div class="acco-title-box">
-                                            <div class="acco-title tmu-blue ps-2">AEAC Student RPAS Competition</div>
+                                            <div class="acco-title tmu-blue">AEAC Student RPAS <br>Competition</div>
                                         </div>
                                     </div>
                                     <div class="acco-card">
@@ -69,7 +69,9 @@
                                         <div class="acco-text">
                                             <div class="acco-title mt-0 mb-2 text-center text-md-start">
                                                 <a href="https://www.aerialevolution.ca/canadas-national-student-rpas-competition-2022-results/" 
-                                                   target="_blank" class="tmu-yellow text-center text-md-start">AEAC Student Competition</a>
+                                                   target="_blank" class="tmu-yellow text-center text-md-start">
+                                                   <h3>AEAC Student Competition</h3>
+                                               </a>
                                             </div>
                                             <div class="acco-desc">
                                                 <h5 class="tmu-i-font">Phase II Winners</h5>
@@ -89,7 +91,7 @@
                                 <div class="acco-event">
                                     <div class="acco-title-year">
                                         <div class="acco-title-box">
-                                            <div class="acco-title tmu-blue pe-2">USC-STC Student UAS Competition</div>
+                                            <div class="acco-title tmu-blue">USC-STC Student <br> Competition</div>
                                         </div>
                                         <div class="acco-year-box">
                                             <div class="acco-year">2021</div>
@@ -102,9 +104,11 @@
                                                  alt="2021 Team Photo" />
                                         </div>
                                         <div class="acco-text text-start">
-                                            <div class="acco-title mt-0 mb-2">
+                                            <div class="acco-title mt-0 mb-2 text-center text-md-start">
                                                 <a href="https://www.aerialevolution.ca/canadas-national-student-uas-competition-2021-results/" 
-                                                   target="_blank" class="tmu-yellow">USC-STC Student Competition</a>
+                                                   target="_blank" class="tmu-yellow text-center text-md-start">
+                                                   <h3>USC-STC Student Competition</h3>
+                                                </a>
                                             </div>
                                             <div class="acco-desc">
                                                 <h5 class="tmu-i-font">Phase II Winners, Innovation Award</h5>
@@ -126,7 +130,7 @@
                                             <div class="acco-year">2018</div>
                                         </div>
                                         <div class="acco-title-box">
-                                            <div class="acco-title tmu-blue">USC-STC Student UAS Competition</div>
+                                            <div class="acco-title tmu-blue">USC-STC Student <br> Competition</div>
                                         </div>
                                     </div>
                                     <div class="acco-card">
@@ -136,9 +140,11 @@
                                                  alt="2018 Team Photo" />
                                         </div>
                                         <div class="acco-text">
-                                            <div class="acco-title mt-0 mb-2">
+                                            <div class="acco-title my-2 text-center text-md-start">
                                                 <a href="https://www.aerialevolution.ca/uas-competition-students-and-police/" 
-                                                   target="_blank" class="tmu-yellow">USC-STC Student Competition</a>
+                                                   target="_blank" class="tmu-yellow text-center text-md-start">
+                                                   <h3>USC-STC Student Competition</h3>
+                                               </a>
                                             </div>
                                             <div class="acco-desc">
                                                 <h5 class="tmu-i-font">Spirit Award</h5>
@@ -157,7 +163,7 @@
                                 <div class="acco-event">
                                     <div class="acco-title-year">
                                         <div class="acco-title-box">
-                                            <div class="acco-title tmu-blue">USC-STC Student UAS Competition</div>
+                                            <div class="acco-title tmu-blue">USC-STC Student <br> Competition</div>
                                         </div>
                                         <div class="acco-year-box">
                                             <div class="acco-year">2017</div>
@@ -170,9 +176,11 @@
                                                  alt="2017 Team Photo" />
                                         </div>
                                         <div class="acco-text text-start">
-                                            <div class="acco-title mt-0 mb-2">
+                                            <div class="acco-title mt-0 mb-2 text-center text-md-start">
                                                 <a href="https://www.aerialevolution.ca/2017-student-uas-competition-sponsorship-call/" 
-                                                   target="_blank" class="tmu-yellow">USC-STC Student Competition</a>
+                                                   target="_blank" class="tmu-yellow text-center text-md-start">
+                                                   <h3>USC-STC Student Competition</h3>
+                                                </a>
                                             </div>
                                             <div class="acco-desc">
                                                 <h5 class="tmu-i-font">Phase II Runners Up</h5>

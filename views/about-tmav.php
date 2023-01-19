@@ -13,7 +13,7 @@
         <div class="container-fluid bg-light px-0">
             <div class="row">
                 <div class="col-md-12 d-block d-md-none">
-                    <img src="../images/about/drone_over_ry_mobile.jpg" class="about-us-main-img px-0"
+                    <img src="../images/about/tmav/drone_over_ry_mobile.jpg" class="about-us-main-img px-0"
                          alt="Drone flying over Ryerson building">
                 </div>
                 <div class="col-lg-1"></div>

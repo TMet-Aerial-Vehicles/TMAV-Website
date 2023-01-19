@@ -228,22 +228,9 @@ img {
   font-size: 40px;
   color: rgb(84, 89, 95);
 }
-/* .ag-timeline_title {
-  background-image: url(https://raw.githubusercontent.com/SochavaAG/example-mycode/master/pens/timeline/images/bg.jpg);
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-
-  background-size: cover;
-  -webkit-background-clip: text;
-  background-clip: text;
-  text-fill-color: transparent;
-  color: transparent;
-
-  font-size: 80px;
-} */
 
 .acco-event {
-  margin: 0 0 50px;
+  margin: 0 0 20px;
   position: relative;
 }
 
@@ -309,7 +296,6 @@ img {
   text-align: center;
   font-family: 'Inter', sans-serif;
   font-size: 20px;
-  /* color: #FFF; */
 
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -328,7 +314,6 @@ img {
   font-weight: bold;
   font-style: italic;
   font-size: 28px;
-  /* color: #004C9B; */
 }
 
 .acco-card {
@@ -345,11 +330,6 @@ img {
   -moz-box-shadow: 0 0 0 0 rgba(0,0,0,.5);
   -o-box-shadow: 0 0 0 0 rgba(0,0,0,.5);
   box-shadow: 0 0 0 0 rgba(0,0,0,.5);
-
-  /* -webkit-transition: -webkit-transform .5s, opacity .5s;
-  -moz-transition: -moz-transform .5s, opacity .5s;
-  -o-transition: -o-transform .5s, opacity .5s;
-  transition: transform .5s, opacity .5s; */
 
   position: relative;
 }
@@ -405,7 +385,6 @@ img {
 
 .acco-event:nth-child(2n) .acco-arrow {
   margin-left: -10px;
-
   right: auto;
   left: 0;
 }
@@ -477,7 +456,7 @@ img {
     -ms-transform: translateX(00%);
     -o-transform: translateX(00%);
     transform: translateX(00%);
-    margin-bottom: 25px;
+    margin-bottom: 15px;
   }
   
   .acco-event:nth-child(2n+1) .acco-arrow {
@@ -506,9 +485,6 @@ img {
 }
 
 @media only screen and (max-width: 639px) {
-  /* .ag-timeline_title {
-    font-size: 60px;
-  } */
 
   .acco-text {
     padding: 7px 15px 10px;
