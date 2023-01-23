@@ -89,7 +89,7 @@
                             <input type="email" class="form-control" name="email" aria-describedby="required-description" required>
                         </div>
                         
-                        <div class="form-group py-2">
+                        <div class="form-group py-1">
                             <label for="message">Message<sup>*</sup> </label>
                             <textarea class="form-control" name="message" rows="3" aria-describedby="required-description" required></textarea>
                         </div>

@@ -45,22 +45,22 @@
                         <form name="contact" method="POST" data-netlify=true data-netlify-recaptcha="true">
                             <div class="form-group py-2">
                                 <label for="name">Name<sup>*</sup> </label> 
-                                <input type="text" class="form-control" id="name" aria-describedby="required-description" required>
+                                <input type="text" class="form-control" name="name" aria-describedby="required-description" required>
                             </div>
                             
                             <div class="form-group py-1">
                                 <label for="email" class="starlabel">Email Address<sup>*</sup> </label>
-                                <input type="email" class="form-control" id="email" aria-describedby="required-description" required>
+                                <input type="email" class="form-control" name="email" aria-describedby="required-description" required>
                             </div>
                             
                             <div class="form-group py-2">
                                 <label for="subject">Subject<sup>*</sup> </label>
-                                <input type="text" class="form-control" id="subject" aria-describedby="required-description" required>
+                                <input type="text" class="form-control" name="subject" aria-describedby="required-description" required>
                             </div>
                             
-                            <div class="form-group py-2">
+                            <div class="form-group py-1">
                                 <label for="message">Message<sup>*</sup> </label>
-                                <textarea class="form-control" id="message" rows="3" aria-describedby="required-description" required></textarea>
+                                <textarea class="form-control" name="message" rows="3" aria-describedby="required-description" required></textarea>
                             </div>
                             
                             <div class="form-group pt-1 pb-3">
