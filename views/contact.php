@@ -42,7 +42,7 @@
                     <div class="col-md-1"></div>
                     <div class="col-md-6">
                         <h3 class="text-center">Get in touch with us</h3>
-                        <form>
+                        <form name="contact" method="POST" data-netlify=true data-netlify-recaptcha="true">
                             <div class="form-group py-2">
                                 <label for="name">Name<sup>*</sup> </label> 
                                 <input type="text" class="form-control" id="name" aria-describedby="required-description" required>
@@ -58,9 +58,13 @@
                                 <input type="text" class="form-control" id="subject" aria-describedby="required-description" required>
                             </div>
                             
-                            <div class="form-group pt-1 pb-3">
+                            <div class="form-group py-2">
                                 <label for="message">Message<sup>*</sup> </label>
                                 <textarea class="form-control" id="message" rows="3" aria-describedby="required-description" required></textarea>
+                            </div>
+                            
+                            <div class="form-group pt-1 pb-3">
+                                <div data-netlify-recaptcha="true"></div>
                             </div>
                             
                             <div class="text-center">

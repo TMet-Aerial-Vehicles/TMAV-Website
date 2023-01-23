@@ -72,7 +72,8 @@
                 <div class="col-md-6">
                     <h1 class="text-center pb-2">Looking to sponsor us?</h1>
                     <h5 class="text-center">Fill out the form below and we will get back to you as soon as we can. <br> Thank you for your support!</h5>
-                    <form>
+                    
+                    <form name="sponsor" method="POST" data-netlify=true data-netlify-recaptcha="true">
                         <div class="form-group py-2">
                             <label for="name">Name<sup>*</sup> </label> 
                             <input type="text" class="form-control" id="name" aria-describedby="required-description" required>
@@ -88,9 +89,13 @@
                             <input type="email" class="form-control" id="email" aria-describedby="required-description" required>
                         </div>
                         
-                        <div class="form-group pt-1 pb-3">
+                        <div class="form-group py-2">
                             <label for="message">Message<sup>*</sup> </label>
                             <textarea class="form-control" id="message" rows="3" aria-describedby="required-description" required></textarea>
+                        </div>
+                        
+                        <div class="form-group pt-1 pb-3">
+                            <div data-netlify-recaptcha="true"></div>
                         </div>
                         
                         <div class="text-center">
