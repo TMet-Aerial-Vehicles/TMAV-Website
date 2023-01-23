@@ -63,7 +63,7 @@
                                 <textarea class="form-control" name="message" rows="3" aria-describedby="required-description" required></textarea>
                             </div>
                             
-                            <div class="form-group pt-1 pb-3">
+                            <div class="form-group pt-2 pb-3">
                                 <div data-netlify-recaptcha="true"></div>
                             </div>
                             
