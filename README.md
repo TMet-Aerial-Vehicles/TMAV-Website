@@ -2,6 +2,4 @@
 
 # TMAV-Website
 
-## Official Website
-
 [TMAV Website](https://tmav.netlify.app)
