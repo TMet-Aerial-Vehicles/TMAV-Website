@@ -4,12 +4,12 @@
 
     <!-- Google Analytics -->
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3Q5C6Q2BL6"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TE0CFHSYJ5"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-3Q5C6Q2BL6');
+        gtag('config', 'G-TE0CFHSYJ5');
     </script>
     
     <!-- Bootstrap CSS -->
