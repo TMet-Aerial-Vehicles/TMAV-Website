@@ -54,6 +54,38 @@
                                 <div class="acco-event">
                                     <div class="acco-title-year">
                                         <div class="acco-year-box">
+                                            <div class="acco-year">2023</div>
+                                        </div>
+                                        <div class="acco-title-box">
+                                            <div class="acco-title tmu-blue">AEAC Student RPAS <br>Competition</div>
+                                        </div>
+                                    </div>
+                                    <div class="acco-card">
+                                        <div class="acco-img-box">
+                                            <img src=""
+                                                 class="acco-event-img"
+                                                 alt="2023 Team Photo" />
+                                        </div>
+                                        <div class="acco-text">
+                                            <div class="acco-title mt-0 mb-2 text-center text-md-start">
+                                                <a href="" 
+                                                   target="_blank" class="tmu-yellow text-center text-md-start">
+                                                   <h3>AEAC Student Competition</h3>
+                                               </a>
+                                            </div>
+                                            <div class="acco-desc">
+                                                <h5 class="tmu-i-font">Judges Award</h5>
+                                                2023 Competition Description
+                                            </div>
+                                        </div>
+
+                                        <div class="acco-arrow"></div>
+                                    </div>
+                                </div>
+
+                                <div class="acco-event">
+                                    <div class="acco-title-year">
+                                        <div class="acco-year-box">
                                             <div class="acco-year">2022</div>
                                         </div>
                                         <div class="acco-title-box">
