@@ -57,7 +57,7 @@
                                             <div class="acco-year">2024</div>
                                         </div>
                                         <div class="acco-title-box">
-                                            <div class="acco-title tmu-blue">AEAC Student RPAS <br>Competition</div>
+                                            <div class="acco-title tmu-blue">SUAS Competition</div>
                                         </div>
                                     </div>
                                     <div class="acco-card">
@@ -68,9 +68,9 @@
                                         </div>
                                         <div class="acco-text">
                                             <div class="acco-title mt-0 mb-2 text-center text-md-start">
-                                                <a href="" 
+                                                <a href="https://suas-competition.org/competitions" 
                                                    target="_blank" class="tmu-yellow text-center text-md-start">
-                                                   <h3>AEAC Student Competition</h3>
+                                                   <h3>SUAS Competition</h3>
                                                </a>
                                             </div>
                                             <div class="acco-desc">
