@@ -75,7 +75,9 @@
                                             </div>
                                             <div class="acco-desc">
                                                 <h5 class="tmu-i-font">4th in Mission Demonstration</h5>
-                                                2024 Competition Description
+                                                The goal of this competition was to develop autonomous UAS capable of delivering packages in shared airspace. 
+                                                These systems had to follow designated waypoint sequences, navigate without collisions with other aircrafts,
+                                                identify safe drop locations, accurately drop payloads onto a specified target while remaining in flight. 
                                             </div>
                                         </div>
 
