@@ -54,6 +54,75 @@
                                 <div class="acco-event">
                                     <div class="acco-title-year">
                                         <div class="acco-year-box">
+                                            <div class="acco-year">2024</div>
+                                        </div>
+                                        <div class="acco-title-box">
+                                            <div class="acco-title tmu-blue">SUAS Competition</div>
+                                        </div>
+                                    </div>
+                                    <div class="acco-card">
+                                        <div class="acco-img-box">
+                                            <img src="../images/accolades/acco-2024.jpg"
+                                                 class="acco-event-img"
+                                                 alt="2024 Team Photo"/>
+                                        </div>
+                                        <div class="acco-text">
+                                            <div class="acco-title mt-0 mb-2 text-center text-md-start">
+                                                <a href="https://suas-competition.org/competitions" 
+                                                   target="_blank" class="tmu-yellow text-center text-md-start">
+                                                   <h3>SUAS Competition</h3>
+                                               </a>
+                                            </div>
+                                            <div class="acco-desc">
+                                                <h5 class="tmu-i-font">4th in Mission Demonstration</h5>
+                                                The goal of this competition was to develop autonomous UAS capable of delivering packages in shared airspace. 
+                                                These systems had to follow designated waypoint sequences, navigate without collisions with other aircrafts,
+                                                identify safe drop locations, and accurately drop payloads onto a specified target while remaining in flight. 
+                                            </div>
+                                        </div>
+
+                                        <div class="acco-arrow"></div>
+                                    </div>
+                                </div>
+
+                                <div class="acco-event">
+                                    <div class="acco-title-year">
+                                        <div class="acco-title-box">
+                                            <div class="acco-title tmu-blue">AEAC Student RPAS <br>Competition</div>
+                                        </div>
+                                        <div class="acco-year-box">
+                                            <div class="acco-year">2023</div>
+                                        </div>
+                                    </div>
+                                    <div class="acco-card">
+                                        <div class="acco-img-box">
+                                            <img src="../images/accolades/acco-2023.jpg"
+                                                 class="acco-event-img"
+                                                 alt="2023 Team Photo" />
+                                        </div>
+                                        <div class="acco-text text-start">
+                                            <div class="acco-title mt-0 mb-2 text-center text-md-start">
+                                                <a href="https://www.aerialevolution.ca/events/#!event/2023/5/5/14th-annual-student-rpas-competition-phase-ii-airborne-competition-commences" 
+                                                   target="_blank" class="tmu-yellow text-center text-md-start">
+                                                   <h3>AEAC Student Competition</h3>
+                                                </a>
+                                            </div>
+                                            <div class="acco-desc">
+                                                <h5 class="tmu-i-font">Judges Award</h5>
+                                                This competition focused on designing and demonstrating a sub-scale prototype of 
+                                                an Urban Air Mobility system. These systems had to efficiently transport four passenger dolls with cargo, 
+                                                handle difficult landings in Beyond Visual Line of Sight scenarios, and optimize routes for cost, fuel, and travel time.
+                                                TMAV created Aerowyn, winning the Judges Award for an innovative UAV.
+                                            </div>
+                                        </div>
+
+                                        <div class="acco-arrow"></div>
+                                    </div>
+                                </div>
+
+                                <div class="acco-event">
+                                    <div class="acco-title-year">
+                                        <div class="acco-year-box">
                                             <div class="acco-year">2022</div>
                                         </div>
                                         <div class="acco-title-box">
